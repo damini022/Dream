@@ -63,7 +63,7 @@ Dream/
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/damini022/Dream>
 ```
 
 Navigate to the project directory:
